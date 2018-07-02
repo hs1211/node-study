@@ -1,0 +1,5 @@
+# IDE property
+.vscode/
+
+# environment
+.env
